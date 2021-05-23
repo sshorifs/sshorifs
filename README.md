@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sshorifs
+- 👀 I’m interested in Web Programming and Artificial Intelligence
+- 🌱 I’m currently learning Web development & Python
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 Reach me through: rajputro815@gmail.com
